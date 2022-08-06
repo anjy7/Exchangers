@@ -1,15 +1,18 @@
 import React from "react"
 import "../styles/Navbar.css"
+import {Link} from 'react-router-dom';
 import { AiOutlineSearch } from "react-icons/ai"
 
 const Navbar = () => {
 	return (
 		<div className='navbar'>
-			<div className='logo'>VitXchange</div>
-			<div className='search-bar'>
+			<Link className="link" to="/">
+				<div className='logo'>Vit <span className="name">Exchangerz</span></div>
+			</Link>
+			{/* <div className='search-bar'>
 				<input type='text' />
 				<AiOutlineSearch className='search-button' />
-			</div>
+			</div> */}
 			<div className='login'>LOGIN</div>
 		</div>
 	)

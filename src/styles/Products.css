@@ -1,0 +1,19 @@
+.products{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+h1{
+    text-align:center;
+}
+
+.container{
+    max-width:90%;
+    margin-left:10%;
+}
+
+.buttons{
+    display:flex;
+    justify-content:center;
+    gap:1rem;
+}

@@ -1,0 +1,12 @@
+.product-img{
+    height:30rem;
+    width:30%
+}
+
+.product-container{
+    display:flex;
+    gap:5rem;
+    align-items:center;
+    margin-top:10rem;
+    padding:2rem;
+}
