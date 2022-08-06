@@ -1,3 +1,7 @@
+
+# THIS PROJECT HAS BEEN SCRAPPED
+
+
 # EXCHANGERS
 
 *This project is submitted under OPEN-INNOVATION TRACK in COGNITION'22*.
