@@ -1,11 +1,11 @@
-***EXCHANGERS***
+# EXCHANGERS
 
 *This project is submitted under OPEN-INNOVATION TRACK in COGNITION'22*.
 
 
 
 
-**Objective**
+## Objective
 
 The basic objective of building **exchangers** was to make a platform where students could exchange items they are not using anymore , the item can be of any type, and in r can seek anything they wish to get in return of it. 
 
@@ -13,13 +13,17 @@ The basic objective of building **exchangers** was to make a platform where stud
 
 
 
-**Technology used**
+## Technology used
+
+=>React.js - used to make the main frontend of the web app and also to make api calls
+<br>
+=>Vanilla CSS - used for styling
+<br>
+=>Firebase 
 
 
 
-
-
-**Description**
+## Description
 
 
 Our platform **provides marketplace** for such items like any other **e-commerce platform**.
