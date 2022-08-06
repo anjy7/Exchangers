@@ -3,11 +3,18 @@
 *This project is submitted under OPEN-INNOVATION TRACK in COGNITION'22*.
 
 
+
+
 *Objective*
 The basic objective of building **exchangers** was to make a platform where students could exchange items they are not using anymore , the item can be of any type, and in r can seek anything they wish to get in return of it. 
 
 
+
+
+
 *Technology used*
+
+
 
 
 
